@@ -7,7 +7,7 @@
 [![Mándame un correo electrónico](https://img.shields.io/badge/Email-tucorreo%40ejemplo.com-000?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:tucorreo@ejemplo.com)
 
 ---
-
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKYDmGfFQvKUwJeRaQumytCUoni4C0M5hJBw&s 
 
 ## 🔭 Un Vistazo a Mi Universo de Código
 
