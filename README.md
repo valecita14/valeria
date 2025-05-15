@@ -1,6 +1,6 @@
 
 # ¡Hola Mundo! 👋 Soy valeria- Explorador Junior de Código 🚀
-https://tenor.com/bgbbH.gif
+![image](https://github.com/user-attachments/assets/279dce7a-e8fd-4ae2-b833-369615a2d3d7)
 [![Soy un aprendiz constante](https://img.shields.io/badge/Estado-Aprendiendo%20Siempre-blue?style=for-the-badge)](https://keep-learning.io/)
 [![Mi Portafolio (Próximamente)](https://img.shields.io/badge/Mi%20Portafolio-En%20Construcci%C3%B3n-orange?style=for-the-badge)](https://tu-futuro-portafolio.com)
 [![Contáctame por LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuperfil/)
