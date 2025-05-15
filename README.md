@@ -58,10 +58,9 @@ Siempre estoy abierto a **nuevos desafíos 🎯 y oportunidades 🌟** que me pe
 
 Puedes incluir algunas estadísticas de GitHub para mostrar tu actividad. Si no tienes muchas contribuciones aún, ¡no te preocupes! Puedes omitir esta sección o añadirla más adelante.
 
-[![Estadísticas de GitHub de [Tu Nombre de Usuario]](https://github-readme-stats.vercel.app/api?username=valecita14&show_icons=true&theme=radical)](https://github.com/[Tu Nombre de Usuario])
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=[Tu Nombre de Usuario]&layout=compact&theme=radical)](https://github.com/[Tu Nombre de Usuario])
+[![Estadísticas de GitHub de [Tu Nombre de Usuario]](https://github-readme-stats.vercel.app/api?username=valecita14&show_icons=true&theme=radical)](https://github.com/valecita14)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=valecita14&layout=compact&theme=radical)](https://github.com/valecita14)
 
-**Nota:** Para que estas tarjetas funcionen, necesitas reemplazar `valecita14` con tu nombre de usuario real de GitHub. Puedes encontrar más opciones de personalización en [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
 ---
 
