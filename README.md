@@ -8,6 +8,7 @@
 [![Mándame un correo electrónico](https://img.shields.io/badge/Email-tucorreo%40ejemplo.com-000?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:tucorreo@ejemplo.com)
 
 ---
+![Texto alternativo (opcional)](ruta/al/tu/gif.gif)
 
 ## 🔭 Un Vistazo a Mi Universo de Código
 
@@ -21,23 +22,25 @@ Mi enfoque principal ahora mismo se centra en comprender los fundamentos y exper
 
 Aquí están las tecnologías y herramientas con las que estoy jugando y aprendiendo:
 
-### Lenguajes que me Hablan:
-* ` <img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca16085ee6057d302771606/topics/javascript/javascript.png" /> ` JavaScript (¡Mi principal lenguaje de exploración!)
-* ` <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca16085ee6057d302771606/topics/python/python.png" /> ` Python (¡El lenguaje de la versatilidad!)
-* ` <img align="left" alt="HTML5" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca16085ee6057d302771606/topics/html/html.png" /> ` HTML5 (¡La estructura de mis ideas web!)
-* ` <img align="left" alt="CSS3" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca16085ee6057d302771606/topics/css/css.png" /> ` CSS3 (¡Dando estilo a mis creaciones!)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 <br />
 
 ### Frameworks y Librerías que Estoy Descubriendo:
-* ` <img align="left" alt="React" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca16085ee6057d302771606/topics/react/react.png" /> ` React (¡Construyendo interfaces dinámicas!)
-* ` <img align="left" alt="Node.js" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca16085ee6057d302771606/topics/nodejs/nodejs.png" /> ` Node.js (¡Explorando el backend con JavaScript!)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 <br />
 
-### Herramientas de mi Laboratorio:
-* ` <img align="left" alt="Git" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca16085ee6057d302771606/topics/git/git.png" /> ` Git (¡Mi fiel compañero para el control de versiones!)
-* ` <img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca16085ee6057d302771606/topics/github/github.png" /> ` GitHub (¡Mi escaparate de proyectos y colaboración!)
+### Herramientas que uso en backend:
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
 * VS Code (¡Mi editor de código favorito!)
 
 ---
