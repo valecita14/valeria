@@ -29,13 +29,13 @@ Aquí están las tecnologías y herramientas con las que estoy jugando y aprendi
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 <br />
----
+
 ### Frameworks y Librerías que Estoy Descubriendo:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 <br />
----
+
 
 ### Herramientas que uso en backend:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
