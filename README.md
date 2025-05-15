@@ -7,8 +7,7 @@
 [![Mándame un correo electrónico](https://img.shields.io/badge/Email-tucorreo%40ejemplo.com-000?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:tucorreo@ejemplo.com)
 
 ---
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKYDmGfFQvKUwJeRaQumytCUoni4C0M5hJBw&s 
-
+![Descripción de la imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKYDmGfFQvKUwJeRaQumytCUoni4C0M5hJBw&s)
 ## 🔭 Un Vistazo a Mi Universo de Código
 
 Soy una entusiasta desarrolladora junior, actualmente sumergiéndome en el fascinante mundo de la programación. Con una sed insaciable de aprender y una mente creativa lista para resolver desafíos, estoy emocionado de construir mi camino en la industria tecnológica.
@@ -44,17 +43,6 @@ Aquí están las tecnologías y herramientas con las que estoy jugando y aprendi
 
 ---
 
-## 🔭 Proyectos en los que Estoy Trabajando (¡Y Aprendiendo Mucho!):
-
-Aquí puedes destacar algunos de tus proyectos, incluso si son pequeños o están en progreso. ¡Lo importante es mostrar tu aprendizaje!
-
-* **[Nombre de tu Proyecto 1]:** Una breve descripción de lo que hace este proyecto y las tecnologías que utilizaste. (Ej: "Una sencilla aplicación de lista de tareas creada con HTML, CSS y JavaScript.")
-* **[Nombre de tu Proyecto 2]:** Otra descripción concisa. (Ej: "Un pequeño juego de adivinar números implementado con Python.")
-* **[Nombre de tu Proyecto 3 (si tienes)]:** Y así sucesivamente.
-
-¡Puedes incluso añadir enlaces a los repositorios si son públicos!
-
----
 
 ## 📚 Mi Diario de Aprendizaje (¡Siempre en Expansión!):
 
