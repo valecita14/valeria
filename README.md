@@ -7,7 +7,7 @@
 [![Mándame un correo electrónico](https://img.shields.io/badge/Email-tucorreo%40ejemplo.com-000?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:tucorreo@ejemplo.com)
 
 ---
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxjc3JsbmJtMnh6b2JtcnZ0Z21rYzM2dGRudmpjaTVmdGs5NGJ0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tEcIyVc6ukQV2eb86t/giphy.gif
+
 
 ## 🔭 Un Vistazo a Mi Universo de Código
 
@@ -15,7 +15,8 @@ Soy una entusiasta desarrolladora junior, actualmente sumergiéndome en el fasci
 
 Mi enfoque principal ahora mismo se centra en comprender los fundamentos y experimentar con diversas tecnologías. ¡Cada línea de código es un nuevo descubrimiento!
 
----
+---![b86249250abeed86cdcbd70443699344](https://github.com/user-attachments/assets/fff6a608-eb63-4a12-bdf2-c32ddd6b8ca6)
+
 
 ## 🛠️ Caja de Herramientas en Expansión
 
