@@ -14,9 +14,10 @@ Soy una entusiasta desarrolladora junior, actualmente sumergiéndome en el fasci
 
 Mi enfoque principal ahora mismo se centra en comprender los fundamentos y experimentar con diversas tecnologías. ¡Cada línea de código es un nuevo descubrimiento!
 
-
+---
 
 ## 🛠️ Caja de Herramientas en Expansión
+---
 
 Aquí están las tecnologías y herramientas con las que estoy jugando y aprendiendo:
 
@@ -28,12 +29,13 @@ Aquí están las tecnologías y herramientas con las que estoy jugando y aprendi
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 <br />
-
+---
 ### Frameworks y Librerías que Estoy Descubriendo:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 <br />
+---
 
 ### Herramientas que uso en backend:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -51,7 +53,6 @@ Valoro mucho la **colaboración 🤝 y el trabajo en equipo 🧑‍🤝‍🧑**
 
 En mi tiempo libre, disfruto de **explorar la naturaleza 🏞️**, ya sea caminando por senderos 🚶‍♀️ o descubriendo nuevos paisajes ⛰️. También me interesa mucho la **lectura 📚**, especialmente temas relacionados con la ciencia 🔬 y la historia 📜.
 
-Siempre estoy abierto a **nuevos desafíos 🎯 y oportunidades 🌟** que me permitan crecer tanto personal 🌱 como profesionalmente.
 ---
 
 ## 📊 Mis Estadísticas de GitHub (¡En Crecimiento Constante!):
