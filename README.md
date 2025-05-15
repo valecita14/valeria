@@ -1,6 +1,5 @@
 
 # ¡Hola Mundo! 👋 Soy valeria- Explorador Junior de Código 🚀
-![image](https://github.com/user-attachments/assets/279dce7a-e8fd-4ae2-b833-369615a2d3d7)
 [![Soy un aprendiz constante](https://img.shields.io/badge/Estado-Aprendiendo%20Siempre-blue?style=for-the-badge)](https://keep-learning.io/)
 [![Mi Portafolio (Próximamente)](https://img.shields.io/badge/Mi%20Portafolio-En%20Construcci%C3%B3n-orange?style=for-the-badge)](https://tu-futuro-portafolio.com)
 [![Contáctame por LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuperfil/)
@@ -8,6 +7,7 @@
 [![Mándame un correo electrónico](https://img.shields.io/badge/Email-tucorreo%40ejemplo.com-000?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:tucorreo@ejemplo.com)
 
 ---
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxjc3JsbmJtMnh6b2JtcnZ0Z21rYzM2dGRudmpjaTVmdGs5NGJ0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tEcIyVc6ukQV2eb86t/giphy.gif
 
 ## 🔭 Un Vistazo a Mi Universo de Código
 
