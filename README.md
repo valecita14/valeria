@@ -1,5 +1,5 @@
 
-# ¡Hola Mundo! 👋 Soy valeria- Explorador Junior de Código 🚀
+# ¡Hola Mundo! 👋 Soy valeria- Explorador Junior de Código 🚀 
 [![Soy un aprendiz constante](https://img.shields.io/badge/Estado-Aprendiendo%20Siempre-blue?style=for-the-badge)](https://keep-learning.io/)
 [![Mi Portafolio (Próximamente)](https://img.shields.io/badge/Mi%20Portafolio-En%20Construcci%C3%B3n-orange?style=for-the-badge)](https://tu-futuro-portafolio.com)
 [![Contáctame por LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuperfil/)
@@ -15,7 +15,6 @@ Soy una entusiasta desarrolladora junior, actualmente sumergiéndome en el fasci
 
 Mi enfoque principal ahora mismo se centra en comprender los fundamentos y experimentar con diversas tecnologías. ¡Cada línea de código es un nuevo descubrimiento!
 
----![b86249250abeed86cdcbd70443699344](https://github.com/user-attachments/assets/fff6a608-eb63-4a12-bdf2-c32ddd6b8ca6)
 
 
 ## 🛠️ Caja de Herramientas en Expansión
