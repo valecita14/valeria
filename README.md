@@ -3,8 +3,8 @@
 [![Soy un aprendiz constante](https://img.shields.io/badge/Estado-Aprendiendo%20Siempre-blue?style=for-the-badge)](https://keep-learning.io/)
 [![Mi Portafolio (Próximamente)](https://img.shields.io/badge/Mi%20Portafolio-En%20Construcci%C3%B3n-orange?style=for-the-badge)](https://tu-futuro-portafolio.com)
 [![Contáctame por LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuperfil/)
-[![Sígueme en Twitter (si tienes)](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tutwitter)
-[![Mándame un correo electrónico](https://img.shields.io/badge/Email-tucorreo%40ejemplo.com-000?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:tucorreo@ejemplo.com)
+
+[![Mándame un correo electrónico](https://img.shields.io/badge/Email-tucorreo%40ejemplo.com-000?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:usugavaleria95@gmail.com)
 
 ---
 ![Descripción de la imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKYDmGfFQvKUwJeRaQumytCUoni4C0M5hJBw&s)
